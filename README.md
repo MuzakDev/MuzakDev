@@ -6,21 +6,6 @@ My name is Miguel, I'm 14 years old, I'm a JavaScript, TypeScript, JavaBukkit, P
 
 
 
-### 📋 Tecnologies:
-Technologies that I know or that I want to learn.
-
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-
-
-### 🚀 Tools
-Programs that I use to develop my projects.
-
-  ![Visual Studio Code](https://img.shields.io/badge/VSCode-008B8B?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
-  ![Github Desktop](https://img.shields.io/badge/GitHub_Desktop-inactive?style=for-the-badge&logo=github&logoColor=black)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-ffcbdb?style=for-the-badge&logo=intellij-idea&logoColor=blue)
-
-<br/>
-
 <details>
   <summary>💬 Contact</summary>
    </br>    <img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
