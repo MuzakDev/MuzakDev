@@ -9,8 +9,7 @@ My name is Miguel, I'm 14 years old, I'm a JavaScript, TypeScript, JavaBukkit, P
 ### 📋 Tecnologies:
 Technologies that I know or that I want to learn.
 
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![JavaBukkit](https://img.shields.io/badge/JavaBukkit-993399?style=for-the-badge&logo=javabukkit&logoColor=purple)  
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
 
 ### 🚀 Tools
