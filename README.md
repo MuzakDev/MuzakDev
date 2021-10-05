@@ -2,7 +2,7 @@
 
 ### Hey! 👋
 
-My name is Miguel, I'm 14 years old, I'm a Java, JavaScript, TypeScript, PHP developer, I'm learning Kotlin but I'm still not so good with it. Here you can find some of my projects based on JavaScript, TypeScript, JavaBukkit, PHP.
+My name is Miguel, I'm 14 years old, I'm a Java, JavaScript, TypeScript, PHP developer, I'm learning Kotlin but I'm still not so good with it. Here you can find some of my projects based on Java, JavaScript, TypeScript, PHP.
 
 
 
