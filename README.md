@@ -12,7 +12,7 @@ My name is Miguel, I'm 14 years old, I'm a JavaScript, TypeScript, JavaBukkit, P
   <string>Muzak#7777</string>
   
    </br> <img align="left" alt="Twitter" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
-  <string>@Muzak & @MuzakDev</string> </br>
+  <string>@MuzakDev</string> </br>
 </details> 
   
 <br/>
