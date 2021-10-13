@@ -2,7 +2,7 @@
 
 ### Hey! 👋
 
-##My name is Miguel, I'm 14 years old, I'm a Java, JavaScript, TypeScript, CSS3, HTML5, NodeJS, React developer, I'm learning Kotlin but I'm still not so good with it. Here you can find some of my projects based on Java, JavaScript, TypeScript, CSS3, HTML5, NodeJS, React.
+# My name is Miguel, I'm 14 years old, I'm a Java, JavaScript, TypeScript, CSS3, HTML5, NodeJS, React developer, I'm learning Kotlin but I'm still not so good with it. Here you can find some of my projects based on Java, JavaScript, TypeScript, CSS3, HTML5, NodeJS, React.
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
