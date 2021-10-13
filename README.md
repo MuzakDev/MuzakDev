@@ -18,3 +18,5 @@ My name is Miguel, I'm 14 years old, I'm a Java, JavaScript, TypeScript, PHP dev
 <br/>
 
 [![Atsu stats](https://github-readme-stats.vercel.app/api?username=brxnokts&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/muzakdev/)
+
+![image](https://user-images.githubusercontent.com/90065137/137182456-09653bf4-91dc-4ac5-8c06-579d7acdafaa.png)
