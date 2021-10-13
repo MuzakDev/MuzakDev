@@ -19,3 +19,4 @@ My name is Miguel, I'm 14 years old, I'm a Java, JavaScript, TypeScript, PHP dev
 
 [![Atsu stats](https://github-readme-stats.vercel.app/api?username=brxnokts&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/muzakdev/)
 
+![Snake animation](https://github.com/gabrielmd550/gabrielmd550/blob/output/github-contribution-grid-snake.svg)
