@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-### Hey! 👋
+Hey! 👋
 
-# My name is Miguel, I'm 14 years old, I'm a Java, JavaScript, TypeScript, CSS3, HTML5, NodeJS, React developer, I'm learning Kotlin but I'm still not so good with it. Here you can find some of my projects based on Java, JavaScript, TypeScript, CSS3, HTML5, NodeJS, React.
+My name is Miguel, I'm 14 years old, I'm a Java, JavaScript, TypeScript, CSS3, HTML5, NodeJS, React developer, I'm learning Kotlin but I'm still not so good with it. Here you can find some of my projects based on Java, JavaScript, TypeScript, CSS3, HTML5, NodeJS, React.
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -26,4 +26,4 @@
 
 [![Atsu stats](https://github-readme-stats.vercel.app/api?username=brxnokts&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/muzakdev/)
 
-![Snake animation](https://github.com/gabrielmd550/gabrielmd550/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/muzakdev/muzakdev/blob/output/github-contribution-grid-snake.svg)
