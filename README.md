@@ -9,7 +9,7 @@ My name is Miguel, I'm 14 years old, I'm a Java, JavaScript, TypeScript, PHP dev
 <details>
   <summary>💬 Contact</summary>
    </br>    <img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
-  <string>Muzak#7777</string>
+  <string>Discord</string>
   
    </br> <img align="left" alt="Twitter" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
   <string>@MuzakDev</string> </br>
